@@ -60,6 +60,15 @@
     - Retrofit
     - Volley
 
+    图片加载
+
+    - Glide
+
+    注入
+
+    - ButterKnife
+    - Dagger2
+
     事件总线
 
     - EventBus
@@ -86,3 +95,8 @@
     - ...
 
 11. 《重构》
+
+12. 一些其它的 APP 开发技术
+
+    - React Native
+    - Flutter
