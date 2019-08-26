@@ -1,5 +1,17 @@
 # Android 从入门到放弃
 
+**目录**
+
+<!-- vim-markdown-toc GFM -->
+
+* [学习方式与渠道](#学习方式与渠道)
+* [学习路线](#学习路线)
+* [书籍](#书籍)
+    * [我的推荐](#我的推荐)
+    * [其它推荐](#其它推荐)
+
+<!-- vim-markdown-toc -->
+
 ## 学习方式与渠道
 
 1. 官方文档
@@ -104,3 +116,20 @@
 
     - React Native
     - Flutter
+
+## 书籍
+
+### 我的推荐
+
+- 《Head First Java》
+- 《Head First 设计模式》
+- 《Java 8 实战》
+- 《Java 并发编程实战》
+- 《Effective Java》
+- 《重构》
+- 《Android 编程权威指南》
+- 《Android 开发艺术探索》
+
+### 其它推荐
+
+- 《Java 编程思想》
